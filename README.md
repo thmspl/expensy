@@ -1,4 +1,3 @@
 # expensy
 
-An app to track all personal expenses during the day.
-
+A simple app to track all personal expenses during the day.
