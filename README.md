@@ -1,4 +1,4 @@
-# expensy
+# Expensy
 
 ![Build (Dart)](https://github.com/thmspl/expensy/workflows/Build%20(Dart)/badge.svg?branch=master)
 
